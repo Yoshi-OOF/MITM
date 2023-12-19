@@ -9,18 +9,18 @@ This project is a Man-in-the-Middle (MITM) tool implemented in Python that logs 
 - `README.md`: This file
 - 
 ## Requirements
-The project requires the following Python packages, which can be installed using the provided `requirements.txt` file:
-```pip install -r requirements.txt```
-Manual install :
+The project requires the following Python packages, which can be installed using the provided `requirements.txt` file :
 ```
 Flask==2.0.1
 requests==2.26.0
 scapy==2.4.5
 ```
+Install the required packages using the following command:
+```pip install -r requirements.txt```
 
 ## Usage
 To use the MITM tool, you need python > 3.7.*
-```py mitm.pu```
+```py mitm.py```
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file.
