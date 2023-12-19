@@ -1,0 +1,5 @@
+{
+    "logging_level": "debug",
+    "log_file": "network.log",
+    "output_format": "json"
+  }

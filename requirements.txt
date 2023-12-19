@@ -1,0 +1,2 @@
+python_version>=3.6
+scapy>=2.4.3
